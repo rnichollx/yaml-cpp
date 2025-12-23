@@ -1,0 +1,3 @@
+default_configuration:
+        depends: []
+        project_type: CMake
